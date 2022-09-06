@@ -1,4 +1,4 @@
-# Image Steganography Using Python and tkinter
+# IMAGE ENCODING AND DECODING
 
 #### Steganography project with gui. Hides text inside image. Least Significant Algorithm (LSB) is used to hide the text.
 
